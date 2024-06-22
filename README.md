@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harshith-M-17
-- 👀 I’m interested in React/React native/MERN stack Development 
+- 👀 I’m interested in React/React native/MERN stack Development & Java
 - 🌱 I’m currently persuing Master's of computer application
 - 📫 How to reach me - harshithm111@gmail.com
 
